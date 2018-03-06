@@ -335,6 +335,8 @@
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
 
+				controls: false,
+				
 				// Parallax background image
 				parallaxBackgroundImage: 'material/mapa_transporte_publico.jpg',
 
@@ -345,12 +347,17 @@
 				// - Calculated automatically unless specified
 				// - Set to 0 to disable movement along an axis
 				parallaxBackgroundHorizontal: 200,
-				parallaxBackgroundVertical: 50,
+				parallaxBackgroundVertical: 0,
 
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 				]
+			});
+			Reveal.configure({
+				  keyboard: {
+					      13: 'next'
+			      	            }
 			});
 		</script>
 	</body>
