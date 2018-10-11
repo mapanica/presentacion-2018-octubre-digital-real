@@ -6,7 +6,7 @@ Fecha: 11 de Octubre 2018
 
 Evento: digital_real, Conferencia organizado por Informationsbüro Nicaragua
 
-Lugar: [Utopiastadt, Mirker Bahnhof](https://www.openstreetmap.org/?q=Utopiastadt+Wuppertal), Wuppertal, Alemania
+Lugar: [Utopiastadt, Mirker Bahnhof](https://www.openstreetmap.org/way/230343394), Wuppertal, Alemania
 
 Construido con [reveal.js](http://revealjs.com/).
 
