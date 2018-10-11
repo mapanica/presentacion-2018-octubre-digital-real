@@ -1,10 +1,12 @@
-# Presentación sobre OpenStreetMap, MapaNica y los buses en Nicaragua
+# Alemán: Presentación sobre OpenStreetMap, MapaNica y los buses en Nicaragua
 
-https://mapanica.github.io/presentacion-2018-marzo-casa-vinculos/
+https://mapanica.github.io/presentacion-2018-octubre-digital-real/
 
-Fecha: 7 de Marzo
+Fecha: 11 de Octubre 2018
 
-Lugar: [Casa Vínculos](https://www.openstreetmap.org/way/485950021), Estelí
+Evento: digital_real, Conferencia organizado por Informationsbüro Nicaragua
+
+Lugar: [Utopiastadt, Mirker Bahnhof](https://www.openstreetmap.org/?q=Utopiastadt+Wuppertal), Wuppertal, Alemania
 
 Construido con [reveal.js](http://revealjs.com/).
 
