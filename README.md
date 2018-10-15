@@ -2,7 +2,7 @@
 
 https://mapanica.github.io/presentacion-2018-octubre-digital-real/
 
-Fecha: 11 de Octubre 2018
+Fecha: 12 de Octubre 2018
 
 Evento: digital_real, Conferencia organizado por Informationsbüro Nicaragua
 
